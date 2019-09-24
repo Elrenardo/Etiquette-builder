@@ -1,0 +1,7 @@
+{
+	"minimum-stability":"dev",
+	"require": {
+		"elrenardo/foxphpsrv": "dev-master",
+		"mpdf/mpdf": "dev-master"
+	}
+}
